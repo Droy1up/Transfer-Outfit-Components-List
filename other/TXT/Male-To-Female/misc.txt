@@ -1,0 +1,505 @@
+Male Category: Casino Glasses
+Male Clothing: Black Deep Shades
+Female Category: Arena Wars Character Suits
+Female Clothing: POGO Glasses
+
+Male Category: Aviators
+Male Clothing: Silver Eyewear
+Female Category: Checkered
+Female Clothing: Round Glasses
+
+Male Category: Glasses
+Male Clothing: Pink & Yellow Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Black Rim Tint Aviators
+
+Male Category: Glasses
+Male Clothing: Blue & Yellow Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Blue Argyle Aviators
+
+Male Category: Glasses
+Male Clothing: Blue & Pink Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Dot Fade Aviators
+
+Male Category: Glasses
+Male Clothing: Purple & Yellow Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Electric Blue Tint Aviators
+
+Male Category: Glasses
+Male Clothing: Pink Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Gold Tint Aviators
+
+Male Category: Glasses
+Male Clothing: Blue Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Herringbone Aviators
+
+Male Category: Glasses
+Male Clothing: Yellow Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Hoizon Aviators
+
+Male Category: Glasses
+Male Clothing: Blue & Magenta Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Magenta Tint Aviators
+
+Male Category: Glasses
+Male Clothing: Red Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Orange Fade Tint Aviators
+
+Male Category: Glasses
+Male Clothing: Green Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Purple Vine Aviators
+
+Male Category: Glasses
+Male Clothing: Orange Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: Walnut Aviators
+
+Male Category: Glasses
+Male Clothing: Red & Yellow Glow Shades
+Female Category: Diamond Casino Glasses
+Female Clothing: White Rim Tint Aviators
+
+Male Category: Parachute/Duffel Bags
+Male Clothing: Parachute/Duffel Bags Equal Themselves
+Female Category: Duffel Bags
+Female Clothing: Parachute/Duffel Bags Equal Themselves
+
+Male Category: Monster Masks
+Male Clothing: Clean Horned Skull Mask
+Female Category: Earpiece Mask
+Female Clothing: White Earpiece Mask
+
+Male Category: Glasses
+Male Clothing: Star Independence Glasses
+Female Category: Glasses
+Female Clothing: Black Hipsters Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Green Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Blue Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Beige Outlaw Goggles
+Female Category: Glasses
+Female Clothing: Camo Collection Casuals
+
+Male Category: Sports Glasses
+Male Clothing: Yellow Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Gray Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Brown Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Green Shooter Glasses
+
+Male Category: Hipster
+Male Clothing: Checked Glasses
+Female Category: Glasses
+Female Clothing: Multicolored Retro Classics
+
+Male Category: Sports Glasses
+Male Clothing: Orange Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Orange Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Grayscale Urban Sky Glasses
+Female Category: Glasses
+Female Clothing: Pink Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Pink Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Purple Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Ox Blood Outlaw Goggles
+Female Category: Glasses
+Female Clothing: Red Casuals Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Dusk Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Red Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Tropical Urban Ski Glasses
+Female Category: Glasses
+Female Clothing: Tan Shooter Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Mono Outlaw Goggles
+Female Category: Glasses
+Female Clothing: Tortoiseshell Casuals Glasses
+
+Male Category: Sports Glasses
+Male Clothing: Tan Outlaw Goggles
+Female Category: Glasses
+Female Clothing: Zap Casuals Glasses
+
+Male Category: Square Shades
+Male Clothing: Brown Square Shades
+Female Category: Glasses
+Female Clothing: Midnight Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Yellow Square Shades
+Female Category: Glasses
+Female Clothing: Sunset Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Black Square Shades
+Female Category: Glasses
+Female Clothing: Black Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Tortoisehell Square Shades
+Female Category: Glasses
+Female Clothing: Blue Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Green Square Shades
+Female Category: Glasses
+Female Clothing: Gold Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Red Square Shades
+Female Category: Glasses
+Female Clothing: Green Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Pink Tinted Square Shades
+Female Category: Glasses
+Female Clothing: Orange Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Blue Tinted Square Shades
+Female Category: Glasses
+Female Clothing: Red Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: White Square Shades
+Female Category: Glasses
+Female Clothing: Pink Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Pink Square Shades
+Female Category: Glasses
+Female Clothing: Yellow Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: All White Square Shades
+Female Category: Glasses
+Female Clothing: Lemon Tint Oversize Shades
+
+Male Category: Square Shades
+Male Clothing: Mono Square Shades
+Female Category: Glasses
+Female Clothing: Gold Rimmed Tint Oversize Shades
+
+Male Category: Glasses
+Male Clothing: Blue Tinted Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Blue & Magenta Glow Shades
+
+Male Category: Glasses
+Male Clothing: White Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Blue & Pink Glow Shades
+
+Male Category: Glasses
+Male Clothing: Blue Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Blue & Yellow Glow Shades
+
+Male Category: Glasses
+Male Clothing: Black Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Blue Glow Shades
+
+Male Category: Glasses
+Male Clothing: White Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Green Glow Shades
+
+Male Category: Glasses
+Male Clothing: Yellow Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Orange Glow Shades
+
+Male Category: Glasses
+Male Clothing: Orange Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Pink & Yellow Glow Shades
+
+Male Category: Glasses
+Male Clothing: Pink Tinted Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Pink Glow Shades
+
+Male Category: Glasses
+Male Clothing: Green Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Purple & Yellow Glow Shades
+
+Male Category: Glasses
+Male Clothing: Green Tinted Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Red & Yellow Glow Shades
+
+Male Category: Glasses
+Male Clothing: Pink Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Red Glow Shades
+
+Male Category: Glasses
+Male Clothing: Red Checked Round Shades (Not Yet Available)
+Female Category: Glasses
+Female Clothing: Yellow Glow Shades
+
+Male Category: Scubasuit Goggles
+Male Clothing: Black Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Beige Outlaw Goggles
+
+Male Category: Scubasuit Goggles
+Male Clothing: Cyan Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Black Outlaw Goggles
+
+Male Category: Scubasuit Goggles
+Male Clothing: White Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Blue Outlaw Goggles
+
+Male Category: Scubasuit Goggles
+Male Clothing: Red Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Mono Outlaw Goggles
+
+Male Category: Scubasuit Goggles
+Male Clothing: Blue Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Ox Blood Outlaw Goggles
+
+Male Category: Scubasuit Goggles
+Male Clothing: Lime Scubasuit Goggles
+Female Category: Glasses
+Female Clothing: Tan Outlaw Goggles
+
+Male Category: Masks
+Male Clothing: Masks Equal Themselves
+Female Category: Masks
+Female Clothing: Masks Equal Themselves
+
+Male Category: Associate Outfits
+Male Clothing: Green Flat Associate Armor
+Female Category: Merge CEO Armor
+Female Clothing: Merge CEO Armor
+
+Male Category: CEO Outfits
+Male Clothing: Black Heavy CEO Armor
+Female Category: Merge CEO Armor
+Female Clothing: Merge CEO Armor
+
+Male Category: Standard Armor
+Male Clothing: Inventory Armor (add to merge shirt)
+Female Category: Merge Inventory Armor
+Female Clothing: Merge Inventory Armor
+
+Male Category: Biker Suit Logos
+Male Clothing: Black Biker Suit Western Logos
+Female Category: Racing Suits
+Female Clothing: Black Racing Suit Logos (Only)
+
+Male Category: Biker Suit Logos
+Male Clothing: Red Biker Suit Nagasaki Logos
+Female Category: Racing Suits
+Female Clothing: Gray Racing Suit Logos (Only)
+
+Male Category: Biker Suit Logos
+Male Clothing: French Biker Suit Crevis Logos
+Female Category: Racing Suits
+Female Clothing: Green Racing Suit Logos (Only)
+
+Male Category: Biker Suit Logos
+Male Clothing: Green Biker Suit Sprunk Logos
+Female Category: Racing Suits
+Female Clothing: Nacy Racing Suit Logos (Only)
+
+Male Category: Biker Suit Logos
+Male Clothing: Italian Biker Suit Redwood Logos
+Female Category: Racing Suits
+Female Clothing: Red Racing Suit Logos (Only)
+
+Male Category: Biker Suit Logos
+Male Clothing: Yellow Biker Suit Metiorite Logos
+Female Category: Racing Suits
+Female Clothing: White Racing Suit Logos (Only)
+
+Male Category: Glasses
+Male Clothing: Dot Fade Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Black Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Walnut Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Blue Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Purple Vine Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Cyan Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Electric Blue Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Gray & Orange Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: White Rim Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Green Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Herringbone Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Lime Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Gold Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Orange Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Blue Argyle Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Pink Backside Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Horizon Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Red Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Black Rim Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Teal Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Orange Fade Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: White Scubasuit Goggles
+
+Male Category: Glasses
+Male Clothing: Magenta Tint Diamond Casino Aviators 
+Female Category: Scubasuit Goggles
+Female Clothing: Yellow Scubasuit Goggles
+
+Male Category: Designer Glasses
+Male Clothing: Silver Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Pink Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Gold Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Yellow Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Rose Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Red Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Tortoiseshell Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: White Round Shaes
+
+Male Category: Designer Glasses
+Male Clothing: Gold Framed Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Black Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Blue Framed Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Pink Tinted Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Tortoisehell & Silver Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Blue Tinted Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Tortoiseshell & Gold Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Green Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Gray Tortoisehell Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Blue Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Gold Swirl Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Orange Checked Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Gold Fade Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: Green Tinted Round Shades
+
+Male Category: Designer Glasses
+Male Clothing: Black Round Glasses
+Female Category: Unlocks - Glasses
+Female Clothing: White Checked Round Shades
+
+Male Category: Glasses
+Male Clothing: Broker Purple Wraparounds
+Female Category: Glasses
+Female Clothing: DS Blue Tint Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Pink Wraparounds
+Female Category: Glasses
+Female Clothing: DS Brown Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Orange Wraparounds
+Female Category: Glasses
+Female Clothing: DS Green Marble Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Lime Wraparounds
+Female Category: Glasses
+Female Clothing: DS Pink Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Yellow Wraparounds
+Female Category: Glasses
+Female Clothing: DS Red Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Red Wraparounds
+Female Category: Glasses
+Female Clothing: DS Teal Bugs
+
+Male Category: Glasses
+Male Clothing: Broker Crimson Wraparounds
+Female Category: Glasses
+Female Clothing: DS White Bugs
+

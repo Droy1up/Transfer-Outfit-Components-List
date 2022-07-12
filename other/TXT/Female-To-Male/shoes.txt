@@ -1,0 +1,1890 @@
+Female Category: Boots
+Female Clothing: Beige Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Flow Teal Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Black Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Crowex Green Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Brown Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: GoPostal Red Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Chocolate Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Redwood Gold Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Desert Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Pendulus Black and White Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Moss Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Junk Red and Black Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Tawny Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Kronos Beige and Gray Air Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Venom Tech Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: MeTV Black Air Racing Suit Shoes
+
+Female Category: Rubberized Boots
+Female Clothing: Charcoal Gorka Rubberized Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Yellow Adv Air Racing Suit Shoes
+
+Female Category: Rubberized Boots
+Female Clothing: Tan Gorka Rubberized Boots (under pants)
+Male Category: Air Racing Suit
+Male Clothing: Teal Adv Air Racing Suit Shoes
+
+Female Category: Arena Wars: Bodysuits
+Female Clothing: Green Alien Suit Shoes
+Male Category: Arena War Outfits
+Male Clothing: Red & Orange Retro Spacesuit Shoes
+
+Female Category: Arena Wars: Bodysuits
+Female Clothing: Purple Alien Suit Shoes
+Male Category: Arena War Outfits
+Male Clothing: Green Retro Spacesuit Shoes
+
+Female Category: Arena Wars
+Female Clothing: Dark Brown Skull Harness Boots
+Male Category: Arena Wars Boots
+Male Clothing: Black Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Black Skull Harness Boots
+Male Category: Arena Wars Boots
+Male Clothing: Brown Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Flaming Skull Boots
+Male Category: Arena Wars Boots
+Male Clothing: Brown Raider Boots
+
+Female Category: Arena Wars Boots
+Female Clothing: Red Flaming Skull Boots
+Male Category: Arena Wars Boots
+Male Clothing: Dark Brown Raider Boots
+
+Female Category: Arena Wars Boots
+Female Clothing: Tan Skull Harness Boots
+Male Category: Arena Wars Boots
+Male Clothing: Light Green Plated Boots
+
+Female Category: Arena Wars Boots
+Female Clothing: Black Skull Harness Boots
+Male Category: Arena Wars Shoes
+Male Clothing: Light Green Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Dark Brown Skull Harness Boots
+Male Category: Arena Wars Shoes
+Male Clothing: Beige Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Flaming Skull Boots
+Male Category: Arena Wars Shoes
+Male Clothing: Brown Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Flaming Skull Boots (Half)
+Male Category: Arena Wars Shoes
+Male Clothing: Brown Raider Boots (over)
+
+Female Category: Arena Wars Boots
+Female Clothing: Red Flaming Skull Boots
+Male Category: Arena Wars Shoes
+Male Clothing: Black Plated Boots (over/shorts)
+
+Female Category: Arena Wars Boots
+Female Clothing: Red Flaming Skull Boots (Half)
+Male Category: Arena Wars Shoes
+Male Clothing: Dark Brown Raider Boots (over)
+
+Female Category: Arena Wars Boots
+Female Clothing: Tan Skull Harness Boots
+Male Category: Arena Wars Shoes
+Male Clothing: Blue Camo Plated Boots (over/shorts)
+
+Female Category: Arena Wars Shoes
+Female Clothing: White & Blue Light Ups
+Male Category: Arena Wars Shoes
+Male Clothing: Black Skull Harness Boots (over/shorts)
+
+Female Category: Arena Wars Shoes
+Female Clothing: White & Green Light Ups
+Male Category: Arena Wars Shoes
+Male Clothing: Dark Brown Skull Harness Boots (over/shorts)
+
+Female Category: Arena Wars Shoes
+Female Clothing: White & Pink Light Ups
+Male Category: Arena Wars Shoes
+Male Clothing: Tan Skull Harness Boots (over/shorts)
+
+Female Category: High Heeled Boots
+Female Clothing: Black Catsuit Heels
+Male Category: Arena Wars Shoes
+Male Clothing: White & Blue Light Ups
+
+Female Category: High Heeled Boots
+Female Clothing: Dark Brown Catsuit Heels
+Male Category: Arena Wars Shoes
+Male Clothing: White & Pink Light Ups
+
+Female Category: High Heeled Boots
+Female Clothing: Gray Catsuit Heels
+Male Category: Arena Wars Shoes
+Male Clothing: White & Green Light Ups
+
+Female Category: High Heeled Boots
+Female Clothing: Light Brown Catsuit Heels
+Male Category: Arena Wars Shoes
+Male Clothing: White & Red Light Ups
+
+Female Category: High Heeled Boots
+Female Clothing: Yellow Catsuit Heels
+Male Category: Arena Wars Shoes
+Male Clothing: Gray & Blue Light Ups
+
+Female Category: Running Shoes
+Female Clothing: Midnight Retro Runners
+Male Category: Arena Wars Shoes
+Male Clothing: Red Flaming Skull Boots (under)
+
+Female Category: Running Shoes
+Female Clothing: Purple Flash Retro Runners
+Male Category: Arena Wars Shoes
+Male Clothing: Flaming Skull Boots (under)
+
+Female Category: Space Traveler Shoes
+Female Clothing: Black Space Traveler Shoes
+Male Category: Arena Wars Shoes
+Male Clothing: Dark Brown Skull Harness Boots (under)
+
+Female Category: Space Traveler Shoes
+Female Clothing: Red Space Traveler Shoes
+Male Category: Arena Wars Shoes
+Male Clothing: Tan Skull Harness Boots (under)
+
+Female Category: Space Traveler Shoes
+Female Clothing: White Space Traveler Shoes
+Male Category: Arena Wars Shoes
+Male Clothing: Black Skull Harness Boots (under)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Ash & Pink Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Beige Raider Boots (over)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Black & Green Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Black & Pink Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Black & Red Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Blue Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Blue Print Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Crosshatch Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Gray Raider Boots (over)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Green Camo Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Green Print Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Green Raider Boots (over)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Pink & Blue Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Pink & Green Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Pink Camo Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Pink Print Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Red Camo Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Red Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Red Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Red Print Light Ups
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Red Raider Boots (over)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Steel Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: White Camo Plated Boots (over/shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: White Raider Boots (over)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Arena Wars Shoes
+Male Clothing: Yellow Plated Boots (over/shorts)
+
+Female Category: Arena War Shoes
+Female Clothing: Brown Raider Boots
+Male Category: Astronaut Suit
+Male Clothing: White Astronaut Boots
+
+Female Category: Racing Suit
+Female Clothing: Gray Race Shoes
+Male Category: Biker Suit
+Male Clothing: Black/Red Biker Boots
+
+Female Category: Canvas Shoes
+Female Clothing: Barfs
+Male Category: Boat Shoes
+Male Clothing: Charcoal Two-Tone Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Black Canvas
+Male Category: Boat Shoes
+Male Clothing: Luxury Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Desert Camo
+Male Category: Boat Shoes
+Male Clothing: Three-Way Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Green Canvas
+Male Category: Boat Shoes
+Male Clothing: Silver Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Lilac Canvas Shoes
+Male Category: Boat Shoes
+Male Clothing: Black Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Navy
+Male Category: Boat Shoes
+Male Clothing: Coffee Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Peach
+Male Category: Boat Shoes
+Male Clothing: Umber Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Pink Safari
+Male Category: Boat Shoes
+Male Clothing: Patriot Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Purple Canvas
+Male Category: Boat Shoes
+Male Clothing: Red Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Red Canvas
+Male Category: Boat Shoes
+Male Clothing: Gray Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: Red Plaid
+Male Category: Boat Shoes
+Male Clothing: Green Boat Shoes
+
+Female Category: Canvas Shoes
+Female Clothing: White Canvas
+Male Category: Boat Shoes
+Male Clothing: Blue-Gray Boat Shoes
+
+Female Category: Bodysuit
+Female Clothing: Orange Wireframe Shoes
+Male Category: Boots
+Male Clothing: Mono Rubberized Boots (under)
+
+Female Category: Boots
+Female Clothing: Beige Tech Boots
+Male Category: Boots
+Male Clothing: Sage Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Black Flight Boots
+Male Category: Boots
+Male Clothing: Black Flight Boots
+
+Female Category: Boots
+Female Clothing: Black Harness Boots
+Male Category: Boots
+Male Clothing: Ox Blood Slack Boots
+
+Female Category: Boots
+Female Clothing: Black Tactical Boots
+Male Category: Boots
+Male Clothing: Black Tactical Boots
+
+Female Category: Boots
+Female Clothing: Black Tech Boots
+Male Category: Boots
+Male Clothing: Desert Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Brown Tech Boots
+Male Category: Boots
+Male Clothing: Blue Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Chocolate Tech Boots
+Male Category: Boots
+Male Clothing: Olive Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Desert Tech Boots
+Male Category: Boots
+Male Clothing: Silver Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Moss Tech Boots
+Male Category: Boots
+Male Clothing: Khaki Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Tawny Tech Boots
+Male Category: Boots
+Male Clothing: Charcoal Tactical Boots (under bottoms)
+
+Female Category: Boots
+Female Clothing: Venom Tech Boots
+Male Category: Boots
+Male Clothing: Walnut Tactical Boots (under bottoms)
+
+Female Category: Casino Shoes
+Female Clothing: Blue Retro Sneakers (over pants/shorts)
+Male Category: Boots
+Male Clothing: Heavy Uniform Boots (over pants/shorts)
+
+Female Category: Casino Shoes
+Female Clothing: Blue Retro Sneakers (under pants)
+Male Category: Boots
+Male Clothing: Heavy Uniform Boots (under pants)
+
+Female Category: Heels
+Female Clothing: Black Strappy High Heels
+Male Category: Boots
+Male Clothing: Charcoal Boots
+
+Female Category: High Heeled Sneakers
+Female Clothing: Black Wedges
+Male Category: Boots
+Male Clothing: Dark Gray Ankle Boot
+
+Female Category: High Heeled Sneakers
+Female Clothing: Red Wedges
+Male Category: Boots
+Male Clothing: Blue Ankle Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Black Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Pink Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Black/Yellow Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Baby Blue Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Brown Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Purple Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Green Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Green Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Grey Hi-Heel Laced
+Male Category: Boots
+Male Clothing: White/Red Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Navy Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Red Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: Red Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Dark Red Cowboy Boots
+
+Female Category: Hi-Heeled Sneakers
+Female Clothing: White Hi-Heel Laced
+Male Category: Boots
+Male Clothing: Red/Green Cowboy Boots
+
+Female Category: Invisible
+Female Clothing: No Feet
+Male Category: Boots
+Male Clothing: Copper Work Boots
+
+Female Category: Loafers
+Female Clothing: Black Loafers
+Male Category: Boots
+Male Clothing: Brown Cowboy Boots
+
+Female Category: Loafers
+Female Clothing: Orange Leather Loafers
+Male Category: Boots
+Male Clothing: Khaki Walking Boots
+
+Female Category: Loafers
+Female Clothing: Sienna Leather Loafers
+Male Category: Boots
+Male Clothing: Tan Walking Boots
+
+Female Category: Sandals
+Female Clothing: Beige Sandals
+Male Category: Boots
+Male Clothing: Brown Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Blue Sandals
+Male Category: Boots
+Male Clothing: White Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Cream Sandals
+Male Category: Boots
+Male Clothing: Teal Wingtip Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Desert Sandals
+Male Category: Boots
+Male Clothing: Black Wingtip Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Gray Sandals
+Male Category: Boots
+Male Clothing: Black Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Hornet Sandals
+Male Category: Boots
+Male Clothing: Ochre Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Indigo Sandals
+Male Category: Boots
+Male Clothing: Acid Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Khol Sandals
+Male Category: Boots
+Male Clothing: All Black Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Pink Sandals
+Male Category: Boots
+Male Clothing: Tan Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Red Sandals
+Male Category: Boots
+Male Clothing: Brown Wingtip Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Sparkle Sandals
+Male Category: Boots
+Male Clothing: Hawthorne Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Striped Sandals
+Male Category: Boots
+Male Clothing: Gray Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Tan Sandals
+Male Category: Boots
+Male Clothing: Aqua Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: Turqoise Sandals
+Male Category: Boots
+Male Clothing: Burgundy Chelsea Boots
+
+Female Category: Sandals
+Female Clothing: White Sandals
+Male Category: Boots
+Male Clothing: Copper Wingtip Chelsea Boots
+
+Female Category: Skate Shoes
+Female Clothing: Black Skate
+Male Category: Boots
+Male Clothing: Black Scruffy Boots
+
+Female Category: Sports Shoes
+Female Clothing: Crosshatch Sports Shoes
+Male Category: Boots
+Male Clothing: Olive Tactival Boots (over bottoms or shorts)
+
+Female Category: Sports Shoes
+Female Clothing: Dark Woodland Cross Trainers
+Male Category: Boots
+Male Clothing: Silver Tactical Boots (over bottoms or shorts)
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Boots
+Male Clothing: Navy Cowboy Boots
+
+Female Category: Unknown Components
+Female Clothing: Unknown Components
+Male Category: Boots
+Male Clothing: Orange Cowboy Boots
+
+Female Category: Boots
+Female Clothing: Black Scruffy Boots (under)
+Male Category: Canvas Shoes
+Male Clothing: Navy Canvas Shoes (Skinny)
+
+Female Category: High Heeled Boots
+Female Clothing: Beige Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Sky Blue Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Black & White Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Gray Two-Tone Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Black Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Green Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Blue Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Camo Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Chocolate Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Green Checked Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Coffee Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Orange Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Gray Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Purple Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Pink Accent Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Tan Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Red Accent Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Plaid Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Tan Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Coffee Canvas Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: White Folded Boots
+Male Category: Canvas Shoes
+Male Clothing: Yellow Canvas Shoes
+
+Female Category: Sports Shoes
+Female Clothing: Black Sports Shoes
+Male Category: Canvas Shoes
+Male Clothing: Navy Canvas Shoes
+
+Female Category: Sports Shoes
+Female Clothing: Off White Sports Shoes
+Male Category: Canvas Shoes
+Male Clothing: All White Converse
+
+Female Category: Sports Shoes
+Female Clothing: White Sports Shoes
+Male Category: Canvas Shoes
+Male Clothing: All Black Converse
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Ash Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Yellow FB Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Brown Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Red FB Manor Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Gray Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Red FB Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Green Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Green FB Manor Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Orange Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Yellow FB Manor Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Tan Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Blue FB Manor Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: White Astronaut Boots
+Male Category: Casino Loafers
+Male Clothing: Green FB Slipper Loafers
+
+Female Category: Arena Wars Astronaut Suits
+Female Clothing: Yellow Astronaut Suit Boots
+Male Category: Casino Loafers
+Male Clothing: Blue FB Slipper Loafers
+
+Female Category: Arena War Shoes
+Female Clothing: Brown Plated Boots (under pants)
+Male Category: Character Suits
+Male Clothing: Republican Space Ranger Boots
+
+Female Category: Boots
+Female Clothing: Ash Winter Boots
+Male Category: Checkered
+Male Clothing: Sports Shoes
+
+Female Category: Flip Flops
+Female Clothing: Cyan Floral Flip Flops
+Male Category: Checkered
+Male Clothing: Flip Flops
+
+Female Category: Heels
+Female Clothing: Beige Patent
+Male Category: Checkered
+Male Clothing: Sandals
+
+Female Category: Heels
+Female Clothing: Charcoal Platforms
+Male Category: Checkered
+Male Clothing: Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Gray Runners (Most Running Shoes)
+Male Category: Checkered
+Male Clothing: Oxford Smart Shoes
+
+Female Category: Sneakers
+Female Clothing: Purple Hi-Tops Sneakers
+Male Category: Checkered
+Male Clothing: Slipons Smart Shoes
+
+Female Category: Sports Shoes
+Female Clothing: Blue Sports
+Male Category: Checkered
+Male Clothing: Canvas Shoes
+
+Female Category: Boots
+Female Clothing: Black Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Yellow Deadline Shoes
+
+Female Category: Boots
+Female Clothing: Chocolate Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Orange Deadline Shoes
+
+Female Category: Boots
+Female Clothing: Ox Blood Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Green Deadline Shoes
+
+Female Category: Boots
+Female Clothing: Worn Black Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Blue Deadline Shoes
+
+Female Category: Boots
+Female Clothing: Worn Chocolate Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Red Deadline Shoes
+
+Female Category: Boots
+Female Clothing: Worn Ox Blood Slack Boots (under)
+Male Category: Deadline
+Male Clothing: Pink Deadline Shoes
+
+Female Category: Flip Flops
+Female Clothing: Black Flip
+Male Category: Flip Flops
+Male Clothing: White Flip Flops
+
+Female Category: Flip Flops
+Female Clothing: Blue Flip
+Male Category: Flip Flops
+Male Clothing: Lezeuurd
+
+Female Category: Flip Flops
+Female Clothing: Charcoal
+Male Category: Flip Flops
+Male Clothing: Anna Rex
+
+Female Category: Flip Flops
+Female Clothing: Green Flip
+Male Category: Flip Flops
+Male Clothing: Double P Red
+
+Female Category: Flip Flops
+Female Clothing: Gutter & Blood
+Male Category: Flip Flops
+Male Clothing: Lilac Flip Flops
+
+Female Category: Flip Flops
+Female Clothing: Hawaiian Snow Sun
+Male Category: Flip Flops
+Male Clothing: Heat Striped
+
+Female Category: Flip Flops
+Female Clothing: Lobster
+Male Category: Flip Flops
+Male Clothing: Blue Two-Tone
+
+Female Category: Flip Flops
+Female Clothing: Penetrators
+Male Category: Flip Flops
+Male Clothing: Stank Blue
+
+Female Category: Flip Flops
+Female Clothing: Pink
+Male Category: Flip Flops
+Male Clothing: Gray Floral
+
+Female Category: Flip Flops
+Female Clothing: Purple Flip
+Male Category: Flip Flops
+Male Clothing: Prolaps
+
+Female Category: Flip Flops
+Female Clothing: Swingers
+Male Category: Flip Flops
+Male Clothing: Suburban
+
+Female Category: Flip Flops
+Female Clothing: White Flip
+Male Category: Flip Flops
+Male Clothing: Gray Flip Flops
+
+Female Category: Flip Flops
+Female Clothing: Woodland Camo Flip
+Male Category: Flip Flops
+Male Clothing: Lemon
+
+Female Category: Retro Spacesuit
+Female Clothing: Red Retro Spacesuit Boots
+Male Category: Impotent Rage (Freemode Event)
+Male Clothing: Impotent Rage Boots
+
+Female Category: Pumps
+Female Clothing: Charcoal Round Toed
+Male Category: Invisible
+Male Clothing: No Feet
+
+Female Category: Pumps
+Female Clothing: Two-Tone Round Toe
+Male Category: Invisible Feet
+Male Clothing: Invisible Feet
+
+Female Category: Boots
+Female Clothing: Khaki Walking Boots (under)
+Male Category: Loafers
+Male Clothing: Orange Loafers
+
+Female Category: Boots
+Female Clothing: Tan Walking Boots (under)
+Male Category: Loafers
+Male Clothing: Sienna Loafers
+
+Female Category: High Heels Boots
+Female Clothing: Leather Studded Boots
+Male Category: Loafers
+Male Clothing: Dual Driving Loafers
+
+Female Category: Impotent Rage (Freemode Event)
+Female Clothing: Impotent Rage Boots
+Male Category: Loafers
+Male Clothing: Dog w/Cone Loafers
+
+Female Category: Boots
+Female Clothing: Heavy Uniform Boots (under pants)
+Male Category: LS Car Meet Outfits
+Male Clothing: Dark Benefactor Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Gray Benefactor Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Green Crowex Pro Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Black Crowex Pro Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Blue Xero Gas Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Red Xero Gas Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Wildstyle Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Not Available
+Male Category: LS Car Meet Outfits
+Male Clothing: Tuned For Speed Racing Suit Shoes
+
+Female Category: Loafers (Unlock Event)
+Female Clothing: Dog W/Cone Slip-Ons
+Male Category: LS Car Meet Shoes
+Male Clothing: Ice Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: White Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Aqua Sole Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Black Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Cream Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Smoky Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Lime Highlight Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Pink Vibrant Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Lilac Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Red Highlight Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Cyan Fade Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Purple Fade Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Beige Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Grayscale Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Gray & Cyan Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Gray & Aqua Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Black & Lime Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Teal Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Gray & Purple Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Gray & Magenta Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Gray & Yellow Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: Orange Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: White & Gold Knit Sneakers
+
+Female Category: Not Available
+Female Clothing: Not Available
+Male Category: LS Car Meet Shoes
+Male Clothing: White & Pink Knit Sneakers
+
+Female Category: Canvas Shoes
+Female Clothing: Red Snugs Canvas Shoes
+Male Category: Merge Shoes
+Male Clothing: Merge Shoes
+
+Female Category: Sneakers
+Female Clothing: Pink Plain Hi-Top Sneakers
+Male Category: Merge Shoes
+Male Clothing: Merge Shoes
+
+Female Category: Casino Loafers
+Female Clothing: Blue FB Manor Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Blue FB Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Green FB Manor Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Red FB Manor Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Red FB Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Yellow FB Manor Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Casino Loafers
+Female Clothing: Yellow FB Slipper Loafers
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: The Frontier Outfit (Unlock)
+Female Clothing: The Frontier Boots
+Male Category: Not Available
+Male Clothing: Not Available
+
+Female Category: Boots
+Female Clothing: Blue Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: Navy Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Crimson Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: White Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Green Cowboy
+Male Category: Racing Suit
+Male Clothing: Green/White Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Hot Pink Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: Gray Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Red Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: Black Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: White Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: Red Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Wine Cowboy Boots (under)
+Male Category: Racing Suit
+Male Clothing: Green Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Navy Cowboy Boots (under pants)
+Male Category: Racing Suit Shoes
+Male Clothing: Pink Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Orange Cowboy Boots (under pants)
+Male Category: Racing Suit Shoes
+Male Clothing: Purple Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Purple Cowboy Boots (under pants)
+Male Category: Racing Suit Shoes
+Male Clothing: Orange Racing Suit Shoes
+
+Female Category: Boots
+Female Clothing: Heavy Uniform Boots (over pants/shorts)
+Male Category: Red Bodysuit Shoes (Unlock)
+Male Clothing: Bodysuit Shoes
+
+Female Category: Arena Wars Bodysuits
+Female Clothing: Blue Robot Bodysuit Shoes
+Male Category: Retro Spacesuit
+Male Clothing: Yellow Retro Spacesuit Boots
+
+Female Category: Arena Wars Bodysuits
+Female Clothing: Yellow Robot Bodysuit Shoes
+Male Category: Retro Spacesuit
+Male Clothing: Red Retro Spacesuit Boots
+
+Female Category: Bodysuit
+Female Clothing: Blue Wireframe Shoes
+Male Category: Rubberized Boots
+Male Clothing: Gray & Red Rubberized (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Fall Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Navy Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Gray Camo Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Slate Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Grayscale Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Buff Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Khaki Rubberized Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Gray & Yellow Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Light Blue Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Gray Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Pink Camo Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Woodland Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: White & Red Rubberized Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Light Blue Trail (under)
+
+Female Category: Rubberized Boots
+Female Clothing: Woodland Rubberized Boots
+Male Category: Rubberized Boots
+Male Clothing: Brown Trail (under)
+
+Female Category: Scubasuit
+Female Clothing: Black Scubasuit Flippers
+Male Category: Rubberized Boots
+Male Clothing: Earth Tones Rubberized Boots (over)
+
+Female Category: Scubasuit
+Female Clothing: Black Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Mono Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Blue Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Black & Blue Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Bold Orange Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Tan Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Cyan Scubasuit Flippers
+Male Category: Rubberized Boots
+Male Clothing: Khaki Rubberized Boots (over)
+
+Female Category: Scubasuit
+Female Clothing: Cyan Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Gray & Yellow Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Gray & Orange Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Black & Light Brown Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Gray Camo Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Red Trail  (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Gray Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Moss Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Green Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Slate Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Lime Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Fall Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Orange Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Black & Brown Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Pink Backside Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: White Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Pink Scubasuit Flippers
+Male Category: Rubberized Boots
+Male Clothing: Chocolate Rubberized
+
+Female Category: Scubasuit
+Female Clothing: Red Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Buff Trail(over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Sky Blue Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Gray Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Splinter Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Orange Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Teal Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Woodland Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Tiger Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Charcoal Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Turqoise Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Navy Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: White & Orange Scuba Shoes
+Male Category: Rubberized Boots
+Male Clothing: Khaki Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: White Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Black & Sand Trail (over pants/shorts)
+
+Female Category: Scubasuit
+Female Clothing: Yellow Scubasuit Shoes
+Male Category: Rubberized Boots
+Male Clothing: Brown Trail (over pants/shorts)
+
+Female Category: Sneakers
+Female Clothing: Blue Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Brown Tech Boots
+
+Female Category: Sneakers
+Female Clothing: Bronze Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Moss Tech Boots
+
+Female Category: Sneakers
+Female Clothing: Peach Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Black Tech Boots
+
+Female Category: Sneakers
+Female Clothing: Pearl Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Tawny Tech Boots
+
+Female Category: Sneakers
+Female Clothing: Purple Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Beige Tech Boots
+
+Female Category: Sneakers
+Female Clothing: Silver Plain Hi Tops
+Male Category: Rubberized Boots
+Male Clothing: Desert Tech Boots
+
+Female Category: Arena Wars Character Suit
+Female Clothing: The Rookie Racing Suit Shoes
+Male Category: Running Shoes
+Male Clothing: Blue Retro Sneakers (over pants/shorts)
+
+Female Category: Boots
+Female Clothing: Leopard Winter Boots
+Male Category: Running Shoes
+Male Clothing: Silver Running Shoes
+
+Female Category: Boots
+Female Clothing: Red Winter Boots
+Male Category: Running Shoes
+Male Clothing: Yellow Running Shoes
+
+Female Category: Character Suits
+Female Clothing: Republican Space Ranger Boots
+Male Category: Running Shoes
+Male Clothing: Blue Retro Sneakers (under pants)
+
+Female Category: Rubberized Boots
+Female Clothing: Aqua Camo Trail Rubberized Boots
+Male Category: Running Shoes
+Male Clothing: Mono Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Black & Blue Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Sunset Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Black & Brown Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Gray & Orange Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Black & Sand Trail Rubberized Boots
+Male Category: Running Shoes
+Male Clothing: Midnight Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Blue & Brown Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Graphite Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Blue Trail Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Red Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Buff Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Green Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Charcoal Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Sage Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Earth Tones Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Blue Flash Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Fall Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Black & Red Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Gray & Yellow Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Cream & Pink Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Gray Camo Trail Rubberized Boots
+Male Category: Running Shoes
+Male Clothing: Mocha Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Gray Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Ash Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Khaki Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Vibrant Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Light Blue Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: White Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Mono Trail Rubberized Boots
+Male Category: Running Shoes
+Male Clothing: Purple Flash Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Moss Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: WHite & Orange Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Navy Trail Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Grayscale Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Orange Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Blue Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Red Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: All Gray Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Slate Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Orange Flash Retro Runners
+
+Female Category: Rubberized Boots
+Female Clothing: Tan Trail Rubberized
+Male Category: Running Shoes
+Male Clothing: Pink Flash Retro Runners
+
+Female Category: Sneakers
+Female Clothing: Gold Plain Hi-Top Sneakers
+Male Category: Running Shoes
+Male Clothing: Calypso Running Shoes
+
+Female Category: Heels
+Female Clothing: Black Patent
+Male Category: Sandals
+Male Clothing: Black Sandals
+
+Female Category: Heels
+Female Clothing: Kitty Patent
+Male Category: Sandals
+Male Clothing: Indigo Sandals
+
+Female Category: Boots
+Female Clothing: Black Moc Toe Boots (under bottoms)
+Male Category: Scubasuit
+Male Clothing: White Scubasuit Shoes
+
+Female Category: Boots
+Female Clothing: Charcoal Moc Toe Boots (under bottoms)
+Male Category: Scubasuit
+Male Clothing: Blue Scubasuit Shoes
+
+Female Category: Boots
+Female Clothing: Classic Moc Toe Boots (under bottoms)
+Male Category: Scubasuit
+Male Clothing: Black Scubasuit Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Ash Backside
+Male Category: Skate Shoes
+Male Clothing: All Black Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Baby Blue
+Male Category: Skate Shoes
+Male Clothing: Charcoal Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Black Backside
+Male Category: Skate Shoes
+Male Clothing: Gray Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Burgundy
+Male Category: Skate Shoes
+Male Clothing: Blue Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Fluorescent Backside
+Male Category: Skate Shoes
+Male Clothing: Two-Tone Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Gray Backside
+Male Category: Skate Shoes
+Male Clothing: Slate Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Light Blue Backside
+Male Category: Skate Shoes
+Male Clothing: Pink Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Navy Backside
+Male Category: Skate Shoes
+Male Clothing: Brown Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Off-White
+Male Category: Skate Shoes
+Male Clothing: Red Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Olive Green
+Male Category: Skate Shoes
+Male Clothing: Camo Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Passion Backside
+Male Category: Skate Shoes
+Male Clothing: Checked Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Pink Accent Backside
+Male Category: Skate Shoes
+Male Clothing: All Gray Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Pink Backside
+Male Category: Skate Shoes
+Male Clothing: Navy Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: White Two-Tone
+Male Category: Skate Shoes
+Male Clothing: Black Skate Shoes
+
+Female Category: Skate Shoes
+Female Clothing: Wild Backside
+Male Category: Skate Shoes
+Male Clothing: Olive Skate Shoes
+
+Female Category: Heels
+Female Clothing: Blue Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Red Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Cream Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Green Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Crimson Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Camo Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Lilac Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Tropical Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Nude Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Gray Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Pink Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Brown Canvas Slip-Ons
+
+Female Category: Heels
+Female Clothing: Red Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Blue Canvas Slip-Ons
+
+Female Category: High Heeled Boots
+Female Clothing: Olive Folded Boots
+Male Category: Slip-Ons
+Male Clothing: Checked Canvas Shoes
+
+Female Category: High Heels
+Female Clothing: Black Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: White Canvas Slipons
+
+Female Category: High Heels
+Female Clothing: Hot Pink Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Stripey Canvas Slipons
+
+Female Category: High Heels
+Female Clothing: Purple Rounded Heels
+Male Category: Slip-Ons
+Male Clothing: Black Canvas Slipons
+
+Female Category: Boots
+Female Clothing: Blue Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Green Slip-On
+
+Female Category: Boots
+Female Clothing: Burgundy Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Cobra Slip-Ons
+
+Female Category: Boots
+Female Clothing: Chestnut Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Red Slip-ons
+
+Female Category: Boots
+Female Clothing: Coffee Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Panel Slip-On
+
+Female Category: Boots
+Female Clothing: Gray Accent Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: White Slip-On
+
+Female Category: Boots
+Female Clothing: Ochre Accent Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Navy Slip-On
+
+Female Category: Boots
+Female Clothing: Ochre Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Black Slip-Ons
+
+Female Category: Boots
+Female Clothing: Purple Accent Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Blue Slip-Ons
+
+Female Category: Boots
+Female Clothing: Purple Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Brown Slip-Ons
+
+Female Category: Boots
+Female Clothing: Red Accent Knee High Boots
+Male Category: Smart Shoes
+Male Clothing: Copper Slip-On
+
+Female Category: Heels
+Female Clothing: Gray Rounded Heels
+Male Category: Smart Shoes
+Male Clothing: Black Toe Oxford Smart Shoes
+
+Female Category: High Heels
+Female Clothing: Olive Platforms
+Male Category: Smart Shoes
+Male Clothing: Spats
+
+Female Category: High Heels
+Female Clothing: White Stocking Heels
+Male Category: Smart Shoes
+Male Clothing: White Toe Oxfords
+
+Female Category: High Heels
+Female Clothing: Yellow Leopard Patent Heels
+Male Category: Smart Shoes
+Male Clothing: Chocolate Oxfords
+
+Female Category: Santa Costumes
+Female Clothing: Santa Costume Boots
+Male Category: Smart Shoes
+Male Clothing: Blue Tip Oxfords
+
+Female Category: Boots
+Female Clothing: Black Calf Boots (under pants)
+Male Category: Sneakers
+Male Clothing: Peach Plain Hi Top Sneakers
+
+Female Category: Boots
+Female Clothing: Ox Blood Calf Boots (under pants)
+Male Category: Sneakers
+Male Clothing: Purple Plain Hi Top Sneakers
+
+Female Category: Boots
+Female Clothing: Tan Calf Boots (under pants)
+Male Category: Sneakers
+Male Clothing: Blue Plain Hi Top Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Animal Runners
+Male Category: Sneakers
+Male Clothing: Ice Hi Top Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Buzz Runners
+Male Category: Sneakers
+Male Clothing: White Hi Top Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Calypso Runners
+Male Category: Sneakers
+Male Clothing: Black Hi Top Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Fresh Runners
+Male Category: Sneakers
+Male Clothing: Dual Hi Top Sneakers
+
+Female Category: Running Shoes
+Female Clothing: Jinx Runners
+Male Category: Sneakers
+Male Clothing: Venom Hi Top Sneakers
+
+Female Category: Smart Shoes
+Female Clothing: All Black Oxford
+Male Category: Sneakers
+Male Clothing: Golden Hi Top Sneakers
+
+Female Category: Sports Shoes
+Female Clothing: All Black Sports
+Male Category: Sneakers
+Male Clothing: White Studded Sneakers
+
+Female Category: Racing Suit
+Female Clothing: Teal Air Racing Suit Shoes
+Male Category: Space Traveler Suit
+Male Clothing: White Space Traveler Suit Shoes
+
+Female Category: Arena War Bodysuit
+Female Clothing: Yellow Arena War Bodysuit Shoes
+Male Category: Spacesuit
+Male Clothing: Red Retro Spacesuit Boots
+
+Female Category: Boots
+Female Clothing: Black Harness Boots (under)
+Male Category: Sports Shoes
+Male Clothing: Brown Digital Sports Shoes
+
+Female Category: Boots
+Female Clothing: Copper Knee High Boots
+Male Category: Sports Shoes
+Male Clothing: Black Kicks
+
+Female Category: Boots
+Female Clothing: Gray Knee High Boots
+Male Category: Sports Shoes
+Male Clothing: Red Kicks
+
+Female Category: Boots
+Female Clothing: Licorice Knee High Boots
+Male Category: Sports Shoes
+Male Clothing: Classic White Kicks
+
+Female Category: Boots
+Female Clothing: Tan Knee High Boots
+Male Category: Sports Shoes
+Male Clothing: Gray Kicks
+
+Female Category: Boots
+Female Clothing: Woodland Camo Knee High Boots
+Male Category: Sports Shoes
+Male Clothing: Yellow Kicks
+
+Female Category: High Heel Boots
+Female Clothing: Beige Folded
+Male Category: Sports Shoes
+Male Clothing: Yellow Sports Shoes
+
+Female Category: High Heel Boots
+Female Clothing: Black Ankle Boots
+Male Category: Sports Shoes
+Male Clothing: All-White Athletic Shoes
+
+Female Category: High Heel Boots
+Female Clothing: Deluxe Vixen Combat
+Male Category: Sports Shoes
+Male Clothing: Black/Charcoal Sports Shoes
+
+Female Category: High Heel Boots
+Female Clothing: Purple Combat
+Male Category: Sports Shoes
+Male Clothing: Green Sports Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Electric Ankle Boots
+Male Category: Sports Shoes
+Male Clothing: Yellow Accent Athletic Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Ochre Combat Boots
+Male Category: Sports Shoes
+Male Clothing: Yellow Accent Sports Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Pollen Ankle Boots
+Male Category: Sports Shoes
+Male Clothing: Leopard Athletic Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Purple Ankle Boots
+Male Category: Sports Shoes
+Male Clothing: Red Athletic Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: Teal Blue Combat Boots
+Male Category: Sports Shoes
+Male Clothing: Urban Camo Sports Shoes
+
+Female Category: High Heeled Boots
+Female Clothing: ZigZag Ankle Boots
+Male Category: Sports Shoes
+Male Clothing: Purple Athletic Shoes
+
+Female Category: HighHeeled Boots
+Female Clothing: Deluxe Midnight Combat
+Male Category: Sports Shoes
+Male Clothing: All White Sports Shoes
+
+Female Category: Casino Loafers
+Female Clothing: Green FB Slipper Loafers
+Male Category: The Frontier Outfit (Unlock)
+Male Clothing: The Frontier Boots
+
